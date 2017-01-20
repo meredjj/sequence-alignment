@@ -9,13 +9,6 @@ import java.io.*;
  * optimal alignment of the 2 DNA sequences. It will also output the alignment score. A sample input is provided.
  * See: sample_input.txt
  * 
- * Sample output for running this file with command line arguments: sample_input.txt 1 -1 -1
- * 
- * 			CCGCACGTACCAGGCTGTCTCTCGGTTAGAC-AT-AA-ATCTCTTCGCG--AGGAGGCAC-C-GCCCGGTGGTGA-GCGCTTAAGGCAG-GTAGTTGGCCG-AATGACAA                     
- *                    CAGA-AGTCGATGAAGA-C-CTAGGCGATAACAGACACACAGCCCAG-GCT-ATGCGCCGAGGG-AGAATCCTT--CCGCTA-GACGTTGTTGACGGTCTTCAAGTACT
- *			
- *			12
- * 
  * @author John Meredith
  * 
  */
